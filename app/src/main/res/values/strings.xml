@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">환율</string>
+
+
+    <string name="aed_sign">\u200Eد.إ</string>
+    <string name="aud_sign">$</string>
+    <string name="bhd_sign">\u200E.د.ب</string>
+    <string name="bnd_sign">B$</string>
+    <string name="cad_sign">C$</string>
+    <string name="chf_sign">CHF</string>
+    <string name="cnh_sign">¥</string>
+    <string name="dkk_sign">kr</string>
+    <string name="eur_sign">€</string>
+    <string name="gbp_sign">£</string>
+    <string name="hkd_sign">HK$</string>
+    <string name="idr_sign">Rp</string>
+    <string name="jpy_sign">¥</string>
+    <string name="kwd_sign">\u200Eد.ك</string>
+    <string name="myr_sign">RM</string>
+    <string name="nok_sign">kr</string>
+    <string name="nzd_sign">$</string>
+    <string name="sar_sign">\u200Eر.س</string>
+    <string name="sek_sign">kr</string>
+    <string name="sgd_sign">S$</string>
+    <string name="thb_sign">฿</string>
+    <string name="usd_sign">$</string>
+</resources>
